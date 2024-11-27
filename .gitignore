@@ -20,3 +20,13 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+.idea
+
+.DS_Store
+Thumbs.db
+db.json
+*.log
+node_modules/
+public/
+.deploy*/
+_multiconfig.yml
